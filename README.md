@@ -6,7 +6,7 @@ Here is a Screenshot from my Desktop, at the topbar/taskbar you see the Clock, a
 
 # Installation
 You need [Rainmeter](https://www.rainmeter.net/ "Rainmeter Website")
-And the TaskbarClock (download here)
+And the [TaskbarClock](https://github.com/GiantMurloc/TaskbarClock/releases "Releases")
 
 ## Settings
 Make the Settings like this:
