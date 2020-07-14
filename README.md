@@ -12,3 +12,7 @@ And the [TaskbarClock](https://github.com/GiantMurloc/TaskbarClock/releases "Rel
 ## Settings
 Make the Settings like this:
 ![Screenshot](https://github.com/GiantMurloc/TaskbarClock/blob/master/ReadmeRessources/ExampleSettings.png)
+
+
+## Credits
+[Wallpaper](https://www.deviantart.com/jimking/art/Falling-DvA-Overwatch-844787826 "Deviantart")
