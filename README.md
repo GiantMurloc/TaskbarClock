@@ -13,6 +13,8 @@ And the [TaskbarClock](https://github.com/GiantMurloc/TaskbarClock/releases "Rel
 Make the Settings like this:
 ![Screenshot](https://github.com/GiantMurloc/TaskbarClock/blob/master/ReadmeRessources/ExampleSettings.png)
 
+## Tips
+To hide the Windows System Clock you need to right click the date and time on the taskbar > taskbar settings > turn system icons on or off > uncheck the clock option
 
 ## Credits
 [Wallpaper](https://www.deviantart.com/jimking/art/Falling-DvA-Overwatch-844787826 "Deviantart")
