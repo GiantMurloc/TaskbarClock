@@ -5,8 +5,9 @@ Here is a Screenshot from my Desktop, at the topbar/taskbar you see the Clock, a
 ![Screenshot](https://github.com/GiantMurloc/TaskbarClock/blob/master/ReadmeRessources/Screenshot.png)
 
 # Installation
-You need [Rainmeter](https://www.rainmeter.net/ "Rainmeter Website"){:target="_blank" rel="noopener"}
-And the [TaskbarClock](https://github.com/GiantMurloc/TaskbarClock/releases "Releases"){:target="_blank" rel="noopener"}
+You need [Rainmeter](https://www.rainmeter.net/ "Rainmeter Website")
+And the [TaskbarClock](https://github.com/GiantMurloc/TaskbarClock/releases "Releases")
+(open links in new tab)
 
 ## Settings
 Make the Settings like this:
